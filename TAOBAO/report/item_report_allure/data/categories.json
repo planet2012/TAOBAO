@@ -1,0 +1,52 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError",
+      "children" : [ {
+        "name" : "test_login2[data0]",
+        "uid" : "1addfedf1c54298d",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658679868981,
+          "stop" : 1658679880642,
+          "duration" : 11661
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'login1': {'username': 13262355765, 'password': ' ', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
+      }, {
+        "name" : "test_login2[data1]",
+        "uid" : "ccb4341dd27b18e1",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658679893303,
+          "stop" : 1658679905184,
+          "duration" : 11881
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'login1': {'username': 13262355765, 'password': 'cc0128CCHcccccccccccccccccccccccccccccccccccccccccccccccccccccccc', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
+      }, {
+        "name" : "test_login2[data2]",
+        "uid" : "d35b4b79a0f216a6",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658679917747,
+          "stop" : 1658679929514,
+          "duration" : 11767
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'login1': {'username': ' ', 'password': 'cc0128CCH', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
+      } ],
+      "uid" : "a0017ad855102fea08b8682d27fec4ca"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

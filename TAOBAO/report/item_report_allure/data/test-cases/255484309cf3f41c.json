@@ -1,0 +1,300 @@
+{
+  "uid" : "255484309cf3f41c",
+  "name" : "结算流程",
+  "fullName" : "Test_case.test_03_shopping_cart.TestCart1#test_login1",
+  "historyId" : "6bf7ba46c40273c5427caed6b1560f09",
+  "time" : {
+    "start" : 1658679941785,
+    "stop" : 1658679972222,
+    "duration" : 30437
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "browser",
+    "time" : {
+      "start" : 1658679935178,
+      "stop" : 1658679941783,
+      "duration" : 6605
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "流程代码路径：D:\\Python\\Study\\TAOBAO\\Page_object\\shopping_cart_page.py",
+      "time" : {
+        "start" : 1658679941785,
+        "stop" : 1658679941785,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "进入淘宝购物车页",
+      "time" : {
+        "start" : 1658679941785,
+        "stop" : 1658679944183,
+        "duration" : 2398
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "先执行登录流程",
+      "time" : {
+        "start" : 1658679944183,
+        "stop" : 1658679952786,
+        "duration" : 8603
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "流程代码路径",
+        "time" : {
+          "start" : 1658679946183,
+          "stop" : 1658679946183,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "输入账号",
+        "time" : {
+          "start" : 1658679946183,
+          "stop" : 1658679948298,
+          "duration" : 2115
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "输入密码",
+        "time" : {
+          "start" : 1658679948298,
+          "stop" : 1658679950370,
+          "duration" : 2072
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "点击登录",
+        "time" : {
+          "start" : 1658679950370,
+          "stop" : 1658679952786,
+          "duration" : 2416
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 4,
+      "hasContent" : true
+    }, {
+      "name" : "流程代码路径：D:\\Python\\Study\\TAOBAO\\Page_object\\shopping_cart_page.py",
+      "time" : {
+        "start" : 1658679954787,
+        "stop" : 1658679954787,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "全选商品",
+      "time" : {
+        "start" : 1658679954787,
+        "stop" : 1658679956917,
+        "duration" : 2130
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "选择结算",
+      "time" : {
+        "start" : 1658679956917,
+        "stop" : 1658679961170,
+        "duration" : 4253
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "代码流程路径：D:\\Python\\Study\\TAOBAO\\Page_object\\shopping_cart_page.py",
+      "time" : {
+        "start" : 1658679968171,
+        "stop" : 1658679968171,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "断言",
+      "time" : {
+        "start" : 1658679968171,
+        "stop" : 1658679970221,
+        "duration" : 2050
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "结果检查：（预期）查看购物车 == (实际)查看购物车",
+        "time" : {
+          "start" : 1658679970220,
+          "stop" : 1658679970220,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 1,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 13,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1658679972223,
+      "stop" : 1658679977439,
+      "duration" : 5216
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "淘宝购物车正向结算流程"
+  }, {
+    "name" : "story",
+    "value" : "购物车结算"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_03_shopping_cart"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCart1"
+  }, {
+    "name" : "host",
+    "value" : "SD-20211122UEVG"
+  }, {
+    "name" : "thread",
+    "value" : "14764-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_case.test_03_shopping_cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'shopping_cart1': {'username': 13262355765, 'password': 'cc0128CCH', 'time_num': 2, 'assert_value': '查看购物车', 'assert_element': ['xpath', \"//div[text()='查看购物车']\"]}}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "255484309cf3f41c.json",
+  "parameterValues" : [ "{'shopping_cart1': {'username': 13262355765, 'password': 'cc0128CCH', 'time_num': 2, 'assert_value': '查看购物车', 'assert_element': ['xpath', \"//div[text()='查看购物车']\"]}}" ]
+}

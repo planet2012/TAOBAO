@@ -1,0 +1,8 @@
+-
+  shopping_cart1:
+    username: 13262355765
+    password: cc0128CCH
+    time_num: 2
+    assert_value: '查看购物车'
+    assert_element: ['xpath',"//div[text()='查看购物车']"]
+

@@ -1,0 +1,27 @@
+-
+  #正确账号，为空密码
+  login1:
+    username: 13262355765
+    password: ' '
+    time_num: 1
+    assert_value: '登录'
+    assert_element: ['xpath',"//button[text()='登录']"]
+
+-
+  #正确账号，密码超出限制
+  login1:
+    username: 13262355765
+    password: cc0128CCHcccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    time_num: 1
+    assert_value: '登录'
+    assert_element:  ['xpath',"//button[text()='登录']"]
+
+-
+  #账号为空，密码正确
+  login1:
+    username: ' '
+    password: cc0128CCH
+    time_num: 1
+    assert_value: '登录'
+    assert_element:  ['xpath',"//button[text()='登录']"]
+

@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Mon Jul 25 00:25:17 CST 2022","Mon Jul 25 00:25:29 CST 2022","11767","Test_case","test_02_fault_login","TestLogin2","","","test_login2[data2]",""
+"passed","Mon Jul 25 00:25:41 CST 2022","Mon Jul 25 00:26:12 CST 2022","30437","Test_case","test_03_shopping_cart","TestCart1","","","结算流程",""
+"failed","Mon Jul 25 00:24:53 CST 2022","Mon Jul 25 00:25:05 CST 2022","11881","Test_case","test_02_fault_login","TestLogin2","","","test_login2[data1]",""
+"failed","Mon Jul 25 00:24:28 CST 2022","Mon Jul 25 00:24:40 CST 2022","11661","Test_case","test_02_fault_login","TestLogin2","","","test_login2[data0]",""
+"passed","Mon Jul 25 00:24:00 CST 2022","Mon Jul 25 00:24:13 CST 2022","13050","Test_case","test_01_correct_login","TestLogin1","","","正确账号正确密码",""

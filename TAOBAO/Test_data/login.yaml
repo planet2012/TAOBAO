@@ -1,0 +1,8 @@
+-
+  login1:
+    username: 13262355765
+    password: cc0128CCH
+    time_num: 1
+    assert_value: 1078459986ll
+    assert_element: ['css selector',"a[class^='site']"]
+

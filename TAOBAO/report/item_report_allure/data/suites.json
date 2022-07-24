@@ -1,0 +1,98 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Test_case",
+    "children" : [ {
+      "name" : "test_01_correct_login",
+      "children" : [ {
+        "name" : "TestLogin1",
+        "children" : [ {
+          "name" : "正确账号正确密码",
+          "uid" : "70dd4a24c5a4697c",
+          "parentUid" : "c1544d94a8208b5f916ed6753a08291d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658679840049,
+            "stop" : 1658679853099,
+            "duration" : 13050
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'login1': {'username': 13262355765, 'password': 'cc0128CCH', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['css selector', \"a[class^='site']\"]}}" ]
+        } ],
+        "uid" : "c1544d94a8208b5f916ed6753a08291d"
+      } ],
+      "uid" : "e728daec4a6b145fbf107e923766adfa"
+    }, {
+      "name" : "test_02_fault_login",
+      "children" : [ {
+        "name" : "TestLogin2",
+        "children" : [ {
+          "name" : "test_login2[data0]",
+          "uid" : "1addfedf1c54298d",
+          "parentUid" : "9efcc320fbe8751cf2f813e3865366cd",
+          "status" : "failed",
+          "time" : {
+            "start" : 1658679868981,
+            "stop" : 1658679880642,
+            "duration" : 11661
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'login1': {'username': 13262355765, 'password': ' ', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
+        }, {
+          "name" : "test_login2[data1]",
+          "uid" : "ccb4341dd27b18e1",
+          "parentUid" : "9efcc320fbe8751cf2f813e3865366cd",
+          "status" : "failed",
+          "time" : {
+            "start" : 1658679893303,
+            "stop" : 1658679905184,
+            "duration" : 11881
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'login1': {'username': 13262355765, 'password': 'cc0128CCHcccccccccccccccccccccccccccccccccccccccccccccccccccccccc', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
+        }, {
+          "name" : "test_login2[data2]",
+          "uid" : "d35b4b79a0f216a6",
+          "parentUid" : "9efcc320fbe8751cf2f813e3865366cd",
+          "status" : "failed",
+          "time" : {
+            "start" : 1658679917747,
+            "stop" : 1658679929514,
+            "duration" : 11767
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'login1': {'username': ' ', 'password': 'cc0128CCH', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
+        } ],
+        "uid" : "9efcc320fbe8751cf2f813e3865366cd"
+      } ],
+      "uid" : "f4fe16f8a723e5a8bab1529fcc3790bd"
+    }, {
+      "name" : "test_03_shopping_cart",
+      "children" : [ {
+        "name" : "TestCart1",
+        "children" : [ {
+          "name" : "结算流程",
+          "uid" : "255484309cf3f41c",
+          "parentUid" : "af8eca76e6fd8e5dfaa88c78ed83ee3a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1658679941785,
+            "stop" : 1658679972222,
+            "duration" : 30437
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'shopping_cart1': {'username': 13262355765, 'password': 'cc0128CCH', 'time_num': 2, 'assert_value': '查看购物车', 'assert_element': ['xpath', \"//div[text()='查看购物车']\"]}}" ]
+        } ],
+        "uid" : "af8eca76e6fd8e5dfaa88c78ed83ee3a"
+      } ],
+      "uid" : "a276e4a536e3f9970bbbebba4f402771"
+    } ],
+    "uid" : "33175a5155f7c6c29d0cab7e667ba746"
+  } ]
+}

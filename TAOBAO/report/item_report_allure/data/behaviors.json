@@ -1,0 +1,94 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "淘宝正向登录流程",
+    "children" : [ {
+      "name" : "正向登录流程",
+      "children" : [ {
+        "name" : "正确账号正确密码",
+        "uid" : "70dd4a24c5a4697c",
+        "parentUid" : "98c10997caf84d575cd6ef7ea0469f56",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658679840049,
+          "stop" : 1658679853099,
+          "duration" : 13050
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'login1': {'username': 13262355765, 'password': 'cc0128CCH', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['css selector', \"a[class^='site']\"]}}" ]
+      } ],
+      "uid" : "98c10997caf84d575cd6ef7ea0469f56"
+    } ],
+    "uid" : "fb54fde4e367b215dbcda80f0bc846a2"
+  }, {
+    "name" : "淘宝反向登录流程",
+    "children" : [ {
+      "name" : "反向向登录流程",
+      "children" : [ {
+        "name" : "test_login2[data0]",
+        "uid" : "1addfedf1c54298d",
+        "parentUid" : "d9b857ec4e5e5d67a7479e17fa7e99de",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658679868981,
+          "stop" : 1658679880642,
+          "duration" : 11661
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'login1': {'username': 13262355765, 'password': ' ', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
+      }, {
+        "name" : "test_login2[data1]",
+        "uid" : "ccb4341dd27b18e1",
+        "parentUid" : "d9b857ec4e5e5d67a7479e17fa7e99de",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658679893303,
+          "stop" : 1658679905184,
+          "duration" : 11881
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'login1': {'username': 13262355765, 'password': 'cc0128CCHcccccccccccccccccccccccccccccccccccccccccccccccccccccccc', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
+      }, {
+        "name" : "test_login2[data2]",
+        "uid" : "d35b4b79a0f216a6",
+        "parentUid" : "d9b857ec4e5e5d67a7479e17fa7e99de",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658679917747,
+          "stop" : 1658679929514,
+          "duration" : 11767
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'login1': {'username': ' ', 'password': 'cc0128CCH', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
+      } ],
+      "uid" : "d9b857ec4e5e5d67a7479e17fa7e99de"
+    } ],
+    "uid" : "5b5c30255f82f9efd9650ea231e1eb20"
+  }, {
+    "name" : "淘宝购物车正向结算流程",
+    "children" : [ {
+      "name" : "购物车结算",
+      "children" : [ {
+        "name" : "结算流程",
+        "uid" : "255484309cf3f41c",
+        "parentUid" : "ba5195f45e1ee32a14d5dda4f5a623ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658679941785,
+          "stop" : 1658679972222,
+          "duration" : 30437
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'shopping_cart1': {'username': 13262355765, 'password': 'cc0128CCH', 'time_num': 2, 'assert_value': '查看购物车', 'assert_element': ['xpath', \"//div[text()='查看购物车']\"]}}" ]
+      } ],
+      "uid" : "ba5195f45e1ee32a14d5dda4f5a623ef"
+    } ],
+    "uid" : "405f265bdb104b912aa9a52c65c2cae5"
+  } ]
+}
