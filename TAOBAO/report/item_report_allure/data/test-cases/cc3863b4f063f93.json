@@ -1,12 +1,12 @@
 {
-  "uid" : "70dd4a24c5a4697c",
+  "uid" : "cc3863b4f063f93",
   "name" : "正确账号正确密码",
   "fullName" : "Test_case.test_01_correct_login.TestLogin1#test_login1",
   "historyId" : "9febc95e3e27048fee58cecf6a5f5aff",
   "time" : {
-    "start" : 1658679840049,
-    "stop" : 1658679853099,
-    "duration" : 13050
+    "start" : 1658680128131,
+    "stop" : 1658680141704,
+    "duration" : 13573
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,186 +14,186 @@
   "beforeStages" : [ {
     "name" : "browser",
     "time" : {
-      "start" : 1658679833437,
-      "stop" : 1658679840047,
-      "duration" : 6610
+      "start" : 1658680121480,
+      "stop" : 1658680128129,
+      "duration" : 6649
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
-    "stepsCount" : 0,
-    "hasContent" : false
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
   } ],
   "testStage" : {
     "status" : "passed",
     "steps" : [ {
       "name" : "流程代码路径：D:\\Python\\Study\\TAOBAO\\Page_object\\login_page.py",
       "time" : {
-        "start" : 1658679840050,
-        "stop" : 1658679840050,
+        "start" : 1658680128131,
+        "stop" : 1658680128131,
         "duration" : 0
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 0,
-      "hasContent" : false
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "打开网页",
       "time" : {
-        "start" : 1658679840050,
-        "stop" : 1658679842191,
-        "duration" : 2141
+        "start" : 1658680128131,
+        "stop" : 1658680130693,
+        "duration" : 2562
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 0,
-      "hasContent" : false
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "流程代码路径",
       "time" : {
-        "start" : 1658679842191,
-        "stop" : 1658679842191,
+        "start" : 1658680130693,
+        "stop" : 1658680130693,
         "duration" : 0
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 0,
-      "hasContent" : false
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "输入账号",
       "time" : {
-        "start" : 1658679842191,
-        "stop" : 1658679844456,
-        "duration" : 2265
+        "start" : 1658680130693,
+        "stop" : 1658680132998,
+        "duration" : 2305
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 0,
-      "hasContent" : false
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "输入密码",
       "time" : {
-        "start" : 1658679844456,
-        "stop" : 1658679846691,
-        "duration" : 2235
+        "start" : 1658680132998,
+        "stop" : 1658680135114,
+        "duration" : 2116
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 0,
-      "hasContent" : false
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "点击登录",
       "time" : {
-        "start" : 1658679846691,
-        "stop" : 1658679849056,
-        "duration" : 2365
+        "start" : 1658680135114,
+        "stop" : 1658680137564,
+        "duration" : 2450
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 0,
-      "hasContent" : false
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "流程代码路径：D:\\Python\\Study\\TAOBAO\\Page_object\\login_page.py",
       "time" : {
-        "start" : 1658679850056,
-        "stop" : 1658679850056,
+        "start" : 1658680138572,
+        "stop" : 1658680138572,
         "duration" : 0
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 0,
-      "hasContent" : false
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "断言",
       "time" : {
-        "start" : 1658679850056,
-        "stop" : 1658679852099,
-        "duration" : 2043
+        "start" : 1658680138573,
+        "stop" : 1658680140703,
+        "duration" : 2130
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "结果检查：（预期）1078459986ll == (实际)1078459986ll",
         "time" : {
-          "start" : 1658679852099,
-          "stop" : 1658679852099,
+          "start" : 1658680140703,
+          "stop" : 1658680140703,
           "duration" : 0
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ ],
         "parameters" : [ ],
-        "attachmentsCount" : 0,
         "shouldDisplayMessage" : false,
-        "stepsCount" : 0,
-        "hasContent" : false
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
       } ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 1,
-      "hasContent" : true
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 1
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
-    "stepsCount" : 9,
-    "hasContent" : true
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 9
   },
   "afterStages" : [ {
     "name" : "browser::0",
     "time" : {
-      "start" : 1658679853100,
-      "stop" : 1658679858299,
-      "duration" : 5199
+      "start" : 1658680141707,
+      "stop" : 1658680146991,
+      "duration" : 5284
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
-    "stepsCount" : 0,
-    "hasContent" : false
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
   } ],
   "labels" : [ {
-    "name" : "story",
-    "value" : "正向登录流程"
-  }, {
     "name" : "feature",
     "value" : "淘宝正向登录流程"
+  }, {
+    "name" : "story",
+    "value" : "正向登录流程"
   }, {
     "name" : "parentSuite",
     "value" : "Test_case"
@@ -208,7 +208,7 @@
     "value" : "SD-20211122UEVG"
   }, {
     "name" : "thread",
-    "value" : "14764-MainThread"
+    "value" : "4936-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -235,6 +235,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "70dd4a24c5a4697c.json",
+  "source" : "cc3863b4f063f93.json",
   "parameterValues" : [ "{'login1': {'username': 13262355765, 'password': 'cc0128CCH', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['css selector', \"a[class^='site']\"]}}" ]
 }

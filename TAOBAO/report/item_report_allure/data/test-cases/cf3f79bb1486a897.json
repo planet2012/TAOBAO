@@ -1,12 +1,12 @@
 {
-  "uid" : "255484309cf3f41c",
+  "uid" : "cf3f79bb1486a897",
   "name" : "结算流程",
   "fullName" : "Test_case.test_03_shopping_cart.TestCart1#test_login1",
   "historyId" : "6bf7ba46c40273c5427caed6b1560f09",
   "time" : {
-    "start" : 1658679941785,
-    "stop" : 1658679972222,
-    "duration" : 30437
+    "start" : 1658680241439,
+    "stop" : 1658680271871,
+    "duration" : 30432
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,239 +14,239 @@
   "beforeStages" : [ {
     "name" : "browser",
     "time" : {
-      "start" : 1658679935178,
-      "stop" : 1658679941783,
-      "duration" : 6605
+      "start" : 1658680230734,
+      "stop" : 1658680241438,
+      "duration" : 10704
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
-    "stepsCount" : 0,
-    "hasContent" : false
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
   } ],
   "testStage" : {
     "status" : "passed",
     "steps" : [ {
       "name" : "流程代码路径：D:\\Python\\Study\\TAOBAO\\Page_object\\shopping_cart_page.py",
       "time" : {
-        "start" : 1658679941785,
-        "stop" : 1658679941785,
+        "start" : 1658680241439,
+        "stop" : 1658680241439,
         "duration" : 0
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 0,
-      "hasContent" : false
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "进入淘宝购物车页",
       "time" : {
-        "start" : 1658679941785,
-        "stop" : 1658679944183,
-        "duration" : 2398
+        "start" : 1658680241439,
+        "stop" : 1658680243824,
+        "duration" : 2385
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 0,
-      "hasContent" : false
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "先执行登录流程",
       "time" : {
-        "start" : 1658679944183,
-        "stop" : 1658679952786,
-        "duration" : 8603
+        "start" : 1658680243824,
+        "stop" : 1658680252455,
+        "duration" : 8631
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "流程代码路径",
         "time" : {
-          "start" : 1658679946183,
-          "stop" : 1658679946183,
+          "start" : 1658680245825,
+          "stop" : 1658680245825,
           "duration" : 0
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ ],
         "parameters" : [ ],
-        "attachmentsCount" : 0,
         "shouldDisplayMessage" : false,
-        "stepsCount" : 0,
-        "hasContent" : false
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
       }, {
         "name" : "输入账号",
         "time" : {
-          "start" : 1658679946183,
-          "stop" : 1658679948298,
-          "duration" : 2115
+          "start" : 1658680245825,
+          "stop" : 1658680248015,
+          "duration" : 2190
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ ],
         "parameters" : [ ],
-        "attachmentsCount" : 0,
         "shouldDisplayMessage" : false,
-        "stepsCount" : 0,
-        "hasContent" : false
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
       }, {
         "name" : "输入密码",
         "time" : {
-          "start" : 1658679948298,
-          "stop" : 1658679950370,
-          "duration" : 2072
+          "start" : 1658680248015,
+          "stop" : 1658680250172,
+          "duration" : 2157
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ ],
         "parameters" : [ ],
-        "attachmentsCount" : 0,
         "shouldDisplayMessage" : false,
-        "stepsCount" : 0,
-        "hasContent" : false
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
       }, {
         "name" : "点击登录",
         "time" : {
-          "start" : 1658679950370,
-          "stop" : 1658679952786,
-          "duration" : 2416
+          "start" : 1658680250172,
+          "stop" : 1658680252455,
+          "duration" : 2283
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ ],
         "parameters" : [ ],
-        "attachmentsCount" : 0,
         "shouldDisplayMessage" : false,
-        "stepsCount" : 0,
-        "hasContent" : false
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
       } ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 4,
-      "hasContent" : true
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 4
     }, {
       "name" : "流程代码路径：D:\\Python\\Study\\TAOBAO\\Page_object\\shopping_cart_page.py",
       "time" : {
-        "start" : 1658679954787,
-        "stop" : 1658679954787,
+        "start" : 1658680254456,
+        "stop" : 1658680254456,
         "duration" : 0
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 0,
-      "hasContent" : false
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "全选商品",
       "time" : {
-        "start" : 1658679954787,
-        "stop" : 1658679956917,
-        "duration" : 2130
+        "start" : 1658680254456,
+        "stop" : 1658680256544,
+        "duration" : 2088
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 0,
-      "hasContent" : false
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "选择结算",
       "time" : {
-        "start" : 1658679956917,
-        "stop" : 1658679961170,
-        "duration" : 4253
+        "start" : 1658680256544,
+        "stop" : 1658680260762,
+        "duration" : 4218
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 0,
-      "hasContent" : false
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "代码流程路径：D:\\Python\\Study\\TAOBAO\\Page_object\\shopping_cart_page.py",
       "time" : {
-        "start" : 1658679968171,
-        "stop" : 1658679968171,
-        "duration" : 0
+        "start" : 1658680267763,
+        "stop" : 1658680267764,
+        "duration" : 1
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 0,
-      "hasContent" : false
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "断言",
       "time" : {
-        "start" : 1658679968171,
-        "stop" : 1658679970221,
-        "duration" : 2050
+        "start" : 1658680267764,
+        "stop" : 1658680269871,
+        "duration" : 2107
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "结果检查：（预期）查看购物车 == (实际)查看购物车",
         "time" : {
-          "start" : 1658679970220,
-          "stop" : 1658679970220,
+          "start" : 1658680269871,
+          "stop" : 1658680269871,
           "duration" : 0
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ ],
         "parameters" : [ ],
-        "attachmentsCount" : 0,
         "shouldDisplayMessage" : false,
-        "stepsCount" : 0,
-        "hasContent" : false
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
       } ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "stepsCount" : 1,
-      "hasContent" : true
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 1
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
-    "stepsCount" : 13,
-    "hasContent" : true
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 13
   },
   "afterStages" : [ {
     "name" : "browser::0",
     "time" : {
-      "start" : 1658679972223,
-      "stop" : 1658679977439,
-      "duration" : 5216
+      "start" : 1658680271875,
+      "stop" : 1658680277203,
+      "duration" : 5328
     },
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
-    "stepsCount" : 0,
-    "hasContent" : false
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
   } ],
   "labels" : [ {
     "name" : "feature",
@@ -268,7 +268,7 @@
     "value" : "SD-20211122UEVG"
   }, {
     "name" : "thread",
-    "value" : "14764-MainThread"
+    "value" : "4936-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -295,6 +295,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "255484309cf3f41c.json",
+  "source" : "cf3f79bb1486a897.json",
   "parameterValues" : [ "{'shopping_cart1': {'username': 13262355765, 'password': 'cc0128CCH', 'time_num': 2, 'assert_value': '查看购物车', 'assert_element': ['xpath', \"//div[text()='查看购物车']\"]}}" ]
 }

@@ -1,51 +1,51 @@
 [ {
-  "uid" : "70dd4a24c5a4697c",
+  "uid" : "cc3863b4f063f93",
   "name" : "正确账号正确密码",
   "time" : {
-    "start" : 1658679840049,
-    "stop" : 1658679853099,
-    "duration" : 13050
+    "start" : 1658680128131,
+    "stop" : 1658680141704,
+    "duration" : 13573
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ccb4341dd27b18e1",
-  "name" : "test_login2[data1]",
-  "time" : {
-    "start" : 1658679893303,
-    "stop" : 1658679905184,
-    "duration" : 11881
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "d35b4b79a0f216a6",
-  "name" : "test_login2[data2]",
-  "time" : {
-    "start" : 1658679917747,
-    "stop" : 1658679929514,
-    "duration" : 11767
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "255484309cf3f41c",
-  "name" : "结算流程",
-  "time" : {
-    "start" : 1658679941785,
-    "stop" : 1658679972222,
-    "duration" : 30437
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1addfedf1c54298d",
+  "uid" : "651b34a2079ff6cb",
   "name" : "test_login2[data0]",
   "time" : {
-    "start" : 1658679868981,
-    "stop" : 1658679880642,
-    "duration" : 11661
+    "start" : 1658680157664,
+    "stop" : 1658680172204,
+    "duration" : 14540
   },
-  "status" : "failed",
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "552b1fc9ac0dc219",
+  "name" : "test_login2[data2]",
+  "time" : {
+    "start" : 1658680212675,
+    "stop" : 1658680225494,
+    "duration" : 12819
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf3f79bb1486a897",
+  "name" : "结算流程",
+  "time" : {
+    "start" : 1658680241439,
+    "stop" : 1658680271871,
+    "duration" : 30432
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f824b5d3583a06a",
+  "name" : "test_login2[data1]",
+  "time" : {
+    "start" : 1658680188170,
+    "stop" : 1658680200400,
+    "duration" : 12230
+  },
+  "status" : "broken",
   "severity" : "normal"
 } ]

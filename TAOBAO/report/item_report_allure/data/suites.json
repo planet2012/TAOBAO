@@ -9,13 +9,13 @@
         "name" : "TestLogin1",
         "children" : [ {
           "name" : "正确账号正确密码",
-          "uid" : "70dd4a24c5a4697c",
+          "uid" : "cc3863b4f063f93",
           "parentUid" : "c1544d94a8208b5f916ed6753a08291d",
           "status" : "passed",
           "time" : {
-            "start" : 1658679840049,
-            "stop" : 1658679853099,
-            "duration" : 13050
+            "start" : 1658680128131,
+            "stop" : 1658680141704,
+            "duration" : 13573
           },
           "flaky" : false,
           "newFailed" : false,
@@ -30,43 +30,43 @@
         "name" : "TestLogin2",
         "children" : [ {
           "name" : "test_login2[data0]",
-          "uid" : "1addfedf1c54298d",
+          "uid" : "651b34a2079ff6cb",
           "parentUid" : "9efcc320fbe8751cf2f813e3865366cd",
-          "status" : "failed",
+          "status" : "passed",
           "time" : {
-            "start" : 1658679868981,
-            "stop" : 1658679880642,
-            "duration" : 11661
+            "start" : 1658680157664,
+            "stop" : 1658680172204,
+            "duration" : 14540
           },
           "flaky" : false,
           "newFailed" : false,
-          "parameters" : [ "{'login1': {'username': 13262355765, 'password': ' ', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
+          "parameters" : [ "{'login1': {'username': 13262355765, 'password': ' ', 'time_num': 1, 'assert_value': '登录', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
         }, {
           "name" : "test_login2[data1]",
-          "uid" : "ccb4341dd27b18e1",
+          "uid" : "f824b5d3583a06a",
           "parentUid" : "9efcc320fbe8751cf2f813e3865366cd",
-          "status" : "failed",
+          "status" : "broken",
           "time" : {
-            "start" : 1658679893303,
-            "stop" : 1658679905184,
-            "duration" : 11881
+            "start" : 1658680188170,
+            "stop" : 1658680200400,
+            "duration" : 12230
           },
           "flaky" : false,
           "newFailed" : false,
-          "parameters" : [ "{'login1': {'username': 13262355765, 'password': 'cc0128CCHcccccccccccccccccccccccccccccccccccccccccccccccccccccccc', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
+          "parameters" : [ "{'login1': {'username': 13262355765, 'password': 'cc0128CCHcccccccccccccccccccccccccccccccccccccccccccccccccccccccc', 'time_num': 1, 'assert_value': '登录', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
         }, {
           "name" : "test_login2[data2]",
-          "uid" : "d35b4b79a0f216a6",
+          "uid" : "552b1fc9ac0dc219",
           "parentUid" : "9efcc320fbe8751cf2f813e3865366cd",
-          "status" : "failed",
+          "status" : "passed",
           "time" : {
-            "start" : 1658679917747,
-            "stop" : 1658679929514,
-            "duration" : 11767
+            "start" : 1658680212675,
+            "stop" : 1658680225494,
+            "duration" : 12819
           },
           "flaky" : false,
           "newFailed" : false,
-          "parameters" : [ "{'login1': {'username': ' ', 'password': 'cc0128CCH', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
+          "parameters" : [ "{'login1': {'username': ' ', 'password': 'cc0128CCH', 'time_num': 1, 'assert_value': '登录', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
         } ],
         "uid" : "9efcc320fbe8751cf2f813e3865366cd"
       } ],
@@ -77,13 +77,13 @@
         "name" : "TestCart1",
         "children" : [ {
           "name" : "结算流程",
-          "uid" : "255484309cf3f41c",
+          "uid" : "cf3f79bb1486a897",
           "parentUid" : "af8eca76e6fd8e5dfaa88c78ed83ee3a",
           "status" : "passed",
           "time" : {
-            "start" : 1658679941785,
-            "stop" : 1658679972222,
-            "duration" : 30437
+            "start" : 1658680241439,
+            "stop" : 1658680271871,
+            "duration" : 30432
           },
           "flaky" : false,
           "newFailed" : false,

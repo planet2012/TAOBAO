@@ -9,12 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "70dd4a24c5a4697c",
+      "uid" : "cc3863b4f063f93",
       "status" : "passed",
       "time" : {
-        "start" : 1658679840049,
-        "stop" : 1658679853099,
-        "duration" : 13050
+        "start" : 1658680128131,
+        "stop" : 1658680141704,
+        "duration" : 13573
       }
     } ]
   },
@@ -28,72 +28,70 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "255484309cf3f41c",
+      "uid" : "cf3f79bb1486a897",
       "status" : "passed",
       "time" : {
-        "start" : 1658679941785,
-        "stop" : 1658679972222,
-        "duration" : 30437
+        "start" : 1658680241439,
+        "stop" : 1658680271871,
+        "duration" : 30432
       }
     } ]
   },
   "d2732a2acd68164823c818b5b0c9a952" : {
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d35b4b79a0f216a6",
-      "status" : "failed",
-      "statusDetails" : "AssertionError",
+      "uid" : "552b1fc9ac0dc219",
+      "status" : "passed",
       "time" : {
-        "start" : 1658679917747,
-        "stop" : 1658679929514,
-        "duration" : 11767
+        "start" : 1658680212675,
+        "stop" : 1658680225494,
+        "duration" : 12819
       }
     } ]
   },
   "534a7bbe28137a8672af482081bc0b8e" : {
     "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
+      "failed" : 0,
+      "broken" : 1,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ccb4341dd27b18e1",
-      "status" : "failed",
-      "statusDetails" : "AssertionError",
+      "uid" : "f824b5d3583a06a",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"button[class$=login]\"}\n  (Session info: chrome=103.0.5060.134)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x003D5FD3+2187219]\n\tOrdinal0 [0x0036E6D1+1763025]\n\tOrdinal0 [0x00283E78+802424]\n\tOrdinal0 [0x002B1C10+990224]\n\tOrdinal0 [0x002B1EAB+990891]\n\tOrdinal0 [0x002DEC92+1174674]\n\tOrdinal0 [0x002CCBD4+1100756]\n\tOrdinal0 [0x002DCFC2+1167298]\n\tOrdinal0 [0x002CC9A6+1100198]\n\tOrdinal0 [0x002A6F80+946048]\n\tOrdinal0 [0x002A7E76+949878]\n\tGetHandleVerifier [0x006790C2+2721218]\n\tGetHandleVerifier [0x0066AAF0+2662384]\n\tGetHandleVerifier [0x0046137A+526458]\n\tGetHandleVerifier [0x00460416+522518]\n\tOrdinal0 [0x00374EAB+1789611]\n\tOrdinal0 [0x003797A8+1808296]\n\tOrdinal0 [0x00379895+1808533]\n\tOrdinal0 [0x003826C1+1844929]\n\tBaseThreadInitThunk [0x75426359+25]\n\tRtlGetAppContainerNamedObjectPath [0x77C87A94+228]\n\tRtlGetAppContainerNamedObjectPath [0x77C87A64+180]",
       "time" : {
-        "start" : 1658679893303,
-        "stop" : 1658679905184,
-        "duration" : 11881
+        "start" : 1658680188170,
+        "stop" : 1658680200400,
+        "duration" : 12230
       }
     } ]
   },
   "ca5a878eed880ac043e893352bea6de4" : {
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1addfedf1c54298d",
-      "status" : "failed",
-      "statusDetails" : "AssertionError",
+      "uid" : "651b34a2079ff6cb",
+      "status" : "passed",
       "time" : {
-        "start" : 1658679868981,
-        "stop" : 1658679880642,
-        "duration" : 11661
+        "start" : 1658680157664,
+        "stop" : 1658680172204,
+        "duration" : 14540
       }
     } ]
   }

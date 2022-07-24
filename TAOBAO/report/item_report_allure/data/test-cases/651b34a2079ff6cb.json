@@ -1,0 +1,240 @@
+{
+  "uid" : "651b34a2079ff6cb",
+  "name" : "test_login2[data0]",
+  "fullName" : "Test_case.test_02_fault_login.TestLogin2#test_login2",
+  "historyId" : "ca5a878eed880ac043e893352bea6de4",
+  "time" : {
+    "start" : 1658680157664,
+    "stop" : 1658680172204,
+    "duration" : 14540
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "browser",
+    "time" : {
+      "start" : 1658680147001,
+      "stop" : 1658680157663,
+      "duration" : 10662
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "流程代码路径：D:\\Python\\Study\\TAOBAO\\Page_object\\login_page.py",
+      "time" : {
+        "start" : 1658680157665,
+        "stop" : 1658680157665,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "打开网页",
+      "time" : {
+        "start" : 1658680157665,
+        "stop" : 1658680159907,
+        "duration" : 2242
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "流程代码路径",
+      "time" : {
+        "start" : 1658680159907,
+        "stop" : 1658680159907,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "输入账号",
+      "time" : {
+        "start" : 1658680159907,
+        "stop" : 1658680162075,
+        "duration" : 2168
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "输入密码",
+      "time" : {
+        "start" : 1658680162075,
+        "stop" : 1658680164165,
+        "duration" : 2090
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "点击登录",
+      "time" : {
+        "start" : 1658680164165,
+        "stop" : 1658680168165,
+        "duration" : 4000
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "流程代码路径：D:\\Python\\Study\\TAOBAO\\Page_object\\login_page.py",
+      "time" : {
+        "start" : 1658680169166,
+        "stop" : 1658680169166,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "断言",
+      "time" : {
+        "start" : 1658680169166,
+        "stop" : 1658680171203,
+        "duration" : 2037
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "结果检查：（预期）登录 == (实际)登录",
+        "time" : {
+          "start" : 1658680171203,
+          "stop" : 1658680171203,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "hasContent" : false,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 9
+  },
+  "afterStages" : [ {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1658680172205,
+      "stop" : 1658680177433,
+      "duration" : 5228
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "反向向登录流程"
+  }, {
+    "name" : "feature",
+    "value" : "淘宝反向登录流程"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_02_fault_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin2"
+  }, {
+    "name" : "host",
+    "value" : "SD-20211122UEVG"
+  }, {
+    "name" : "thread",
+    "value" : "4936-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_case.test_02_fault_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'login1': {'username': 13262355765, 'password': ' ', 'time_num': 1, 'assert_value': '登录', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "651b34a2079ff6cb.json",
+  "parameterValues" : [ "{'login1': {'username': 13262355765, 'password': ' ', 'time_num': 1, 'assert_value': '登录', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
+}

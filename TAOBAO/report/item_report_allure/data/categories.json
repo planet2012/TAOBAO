@@ -2,51 +2,25 @@
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
   "children" : [ {
-    "name" : "Product defects",
+    "name" : "Test defects",
     "children" : [ {
-      "name" : "AssertionError",
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"button[class$=login]\"}\n  (Session info: chrome=103.0.5060.134)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x003D5FD3+2187219]\n\tOrdinal0 [0x0036E6D1+1763025]\n\tOrdinal0 [0x00283E78+802424]\n\tOrdinal0 [0x002B1C10+990224]\n\tOrdinal0 [0x002B1EAB+990891]\n\tOrdinal0 [0x002DEC92+1174674]\n\tOrdinal0 [0x002CCBD4+1100756]\n\tOrdinal0 [0x002DCFC2+1167298]\n\tOrdinal0 [0x002CC9A6+1100198]\n\tOrdinal0 [0x002A6F80+946048]\n\tOrdinal0 [0x002A7E76+949878]\n\tGetHandleVerifier [0x006790C2+2721218]\n\tGetHandleVerifier [0x0066AAF0+2662384]\n\tGetHandleVerifier [0x0046137A+526458]\n\tGetHandleVerifier [0x00460416+522518]\n\tOrdinal0 [0x00374EAB+1789611]\n\tOrdinal0 [0x003797A8+1808296]\n\tOrdinal0 [0x00379895+1808533]\n\tOrdinal0 [0x003826C1+1844929]\n\tBaseThreadInitThunk [0x75426359+25]\n\tRtlGetAppContainerNamedObjectPath [0x77C87A94+228]\n\tRtlGetAppContainerNamedObjectPath [0x77C87A64+180]",
       "children" : [ {
-        "name" : "test_login2[data0]",
-        "uid" : "1addfedf1c54298d",
-        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658679868981,
-          "stop" : 1658679880642,
-          "duration" : 11661
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'login1': {'username': 13262355765, 'password': ' ', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
-      }, {
         "name" : "test_login2[data1]",
-        "uid" : "ccb4341dd27b18e1",
-        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
-        "status" : "failed",
+        "uid" : "f824b5d3583a06a",
+        "parentUid" : "f0a1d2cd8ba66b266e24b501d7df8924",
+        "status" : "broken",
         "time" : {
-          "start" : 1658679893303,
-          "stop" : 1658679905184,
-          "duration" : 11881
+          "start" : 1658680188170,
+          "stop" : 1658680200400,
+          "duration" : 12230
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "{'login1': {'username': 13262355765, 'password': 'cc0128CCHcccccccccccccccccccccccccccccccccccccccccccccccccccccccc', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
-      }, {
-        "name" : "test_login2[data2]",
-        "uid" : "d35b4b79a0f216a6",
-        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658679917747,
-          "stop" : 1658679929514,
-          "duration" : 11767
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "{'login1': {'username': ' ', 'password': 'cc0128CCH', 'time_num': 1, 'assert_value': '1078459986ll', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
+        "parameters" : [ "{'login1': {'username': 13262355765, 'password': 'cc0128CCHcccccccccccccccccccccccccccccccccccccccccccccccccccccccc', 'time_num': 1, 'assert_value': '登录', 'assert_element': ['xpath', \"//button[text()='登录']\"]}}" ]
       } ],
-      "uid" : "a0017ad855102fea08b8682d27fec4ca"
+      "uid" : "f0a1d2cd8ba66b266e24b501d7df8924"
     } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ]
 }

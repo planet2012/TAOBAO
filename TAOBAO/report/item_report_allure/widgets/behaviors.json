@@ -4,8 +4,8 @@
     "uid" : "5b5c30255f82f9efd9650ea231e1eb20",
     "name" : "淘宝反向登录流程",
     "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
+      "failed" : 0,
+      "broken" : 1,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
